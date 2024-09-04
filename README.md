@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**StanyslavIzmaylov/StanyslavIzmaylov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет меня зовут Станислав Измайлов! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+Занимаю программированием на Java более 3х лет В этом репозитории делюсь своими проектами.
+
+
+
+## 🛠 Skills
+Java, Spring, Spring Boot, Spring MVC, Spring Data, Hibernate
+
+SQL, Postgres SQL, H2 DB, HSQL
+
+Java Script, HTML, CSS
